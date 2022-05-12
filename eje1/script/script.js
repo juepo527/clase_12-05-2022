@@ -1,0 +1,1 @@
+console.log("hola este es el juego mas aleta no se aga matar y deje de plajear mi codigo sapoooooooooo")
